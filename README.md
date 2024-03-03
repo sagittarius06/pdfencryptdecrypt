@@ -1,6 +1,11 @@
 # pdfencryptdecrypt
 A KDE Plasma service menu to Encrypt / Decrypt PDF files with AES 256 bits
 
+Requirements:
+
+    Linux operating system with Plasma desktop environment
+    Install the Service Menu system-wide: # cp pdfencryptdecrypt.desktop /usr/share/kservices5/ServiceMenus/
+    qpdf binary must be installed
 
 User Guide: Encrypt and Decrypt PDF Files
 1. Introduction
@@ -16,11 +21,11 @@ Instructions:
         Right-click on the PDF file you want to encrypt.
         Select "Encrypt PDF" from the context menu.
         Follow the on-screen instructions:
-            Enter the user password.
-            Enter the owner password.
-            Select printing permissions.
-            Select modification permissions.
-            Select extraction permissions.
+                Enter the user password.
+                Enter the owner password.
+                Select printing permissions.
+                Select modification permissions.
+                Select extraction permissions.
         Click "OK" to proceed.
         Wait for the encryption process to complete.
         A confirmation message will appear when the PDF has been encrypted successfully.
@@ -34,8 +39,8 @@ Instructions:
         Right-click on the encrypted PDF file you want to decrypt.
         Select "Decrypt PDF" from the context menu.
         Follow the on-screen instructions:
-            Enter the user password.
-            Enter the owner password.
+                Enter the user password.
+                Enter the owner password.
         Click "OK" to proceed.
         Wait for the decryption process to complete.
         A confirmation message will appear when the PDF has been decrypted successfully.
