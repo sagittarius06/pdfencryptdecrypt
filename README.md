@@ -1,7 +1,7 @@
 # pdfencryptdecrypt
-# KDE Plasma Service Menu for Encrypting /
+KDE Plasma Service Menu for Encrypting /
 
-# Decrypting PDF Files with AES 256 bits
+Decrypting PDF Files with AES 256 bits
 
 ## Introduction
 
@@ -14,7 +14,7 @@ context menu when right-clicking on a PDF file.
 - Linux operating system with Plasma desktop environment
 - Install the Service Menu system-wide:
     shell
-- # cp pdfencryptdecrypt.desktop /usr/share/kservices5/ServiceMenus/
+- cp pdfencryptdecrypt.desktop /usr/share/kservices5/ServiceMenus/
 - qpdf binary must be installed
 
 ## Encrypting a PDF File
