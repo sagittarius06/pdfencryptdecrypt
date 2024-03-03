@@ -13,8 +13,11 @@ Introduction
 This user guide provides instructions on how to encrypt and decrypt PDF files using the symmetrical 256-bit AES method. These actions are accessible via the context menu when right-clicking on a PDF file.
 
 Encrypting a PDF File
+
 Action: Encrypt a secure PDF using the symmetrical 256-bit AES method
+
 Description: This action allows you to encrypt a PDF file to enhance its security.
+
 
 Instructions:
     right-click on the PDF file you want to encrypt.
