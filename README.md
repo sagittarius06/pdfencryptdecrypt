@@ -8,12 +8,11 @@ Requirements:
     qpdf binary must be installed
 
 User Guide: Encrypt and Decrypt PDF Files
-1. Introduction
+Introduction
 
 This user guide provides instructions on how to encrypt and decrypt PDF files using the symmetrical 256-bit AES method. These actions are accessible via the context menu when right-clicking on a PDF file.
 
-
-2. Encrypting a PDF File
+Encrypting a PDF File
 
 Action: Encrypt a secure PDF using the symmetrical 256-bit AES method
 Description: This action allows you to encrypt a PDF file to enhance its security.
@@ -32,7 +31,7 @@ Instructions:
     A confirmation message will appear when the PDF has been encrypted successfully.
 
 
-3. Decrypting a PDF File
+Decrypting a PDF File
 
 Action: Decrypt a secure PDF using the symmetrical 256-bit AES method
 Description: This action allows you to decrypt a previously encrypted PDF file.
