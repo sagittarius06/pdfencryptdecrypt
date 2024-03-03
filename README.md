@@ -58,3 +58,5 @@ context menu when right-clicking on a PDF file.
   5. Wait for the decryption process to complete.
   
   6. A confirmation message will appear when the PDF has been decrypted successfully.
+
+  Pascal Billery-Schneider
